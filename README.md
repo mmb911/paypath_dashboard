@@ -6,31 +6,17 @@
 
 #### 1. Dashboard for viewing all users neccessary data.
 
-<img src="assets/images/dashboard_showcase.png" alt="Dashboard Showcase" title="Dashboard Showcase" >
-
 #### 2. View All User Transactions. Search by Reference and perform Actions
-
-<img src="assets/images/transactions_showcase.png" alt="Transactions Showcase" title="Transactions Showcase" >
 
 #### 3. Send Push Notification to all Registered Users. Only `ADMINS` can use this feature.
 
-<img src="assets/images/notifications_showcase.png" alt="Send Push Notification" title="Send Push Notification" >
-
 #### 4. In-app customer service support. `ADMIN` can reply to all messages but `AGENTS` can only reply to messages from users selected at random
-
-<img src="assets/images/customer-support_showcase.png" alt="Customer Support Showcase" title="Customer Support Showcase">
 
 #### 5. Settings, only `ADMIN` can access this route
 
-<img src="assets/images/settings_showcase.png" alt="Settings Showcase" title="Settings Showcase">
-
 ### Note: Some Features have been removed from AGENT accounts
 
-<img src="assets/images/agent_showcase.png" alt="Agent Showcase" title="Agent Showcase">
-
 ### After log in, the user type state is stored and used throughout the web app
-
-<img src="assets/images/login_screen_showcase.png" alt="Login Screen Showcase" title="Login Screen Showcase">
 
 ### QUICK START ⚡
 
